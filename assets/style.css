@@ -258,12 +258,6 @@ input[type='submit'] {
   text-align: center;
 }
 
-.location .map {
-  border: 1px solid #000;
-  width: 350px;
-  height: 350px;
-}
-
 @media all and (max-width: 1180px) {
   .picture {
     flex: 2;
