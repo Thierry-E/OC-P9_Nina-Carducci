@@ -2,6 +2,7 @@ body {
   max-width: 1920px;
   margin: auto;
 }
+
 * {
   font-family: 'Inter';
   font-style: normal;
@@ -99,7 +100,7 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1c6474;
+  background-color: #1c6474 !important;
   border-radius: 0;
 }
 .nav-pills .nav-link {
