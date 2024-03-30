@@ -97,6 +97,11 @@ body {
 .gallery .nav {
   justify-content: center;
 }
+
+.gallery img {
+  width: 440px;
+  height: 440px;
+}
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
