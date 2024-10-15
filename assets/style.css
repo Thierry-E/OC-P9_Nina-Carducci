@@ -381,3 +381,7 @@ input[type='submit'] {
     width: 80%;
   }
 }
+
+.visuality-hidden {
+  color: #575757;
+}
